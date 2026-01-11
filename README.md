@@ -1,7 +1,50 @@
-# prasetiyohadi
+# Hi there, I'm Prasetiyo Hadi Purwoko 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+**Infrastructure Architect | DevOps Specialist | MSc. Computational Science**
 
-[![Prasetiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasetiyohadi)](https://github.com/anuraghazra/github-readme-stats)
+I am a seasoned IT professional with over 12 years of experience in DevOps and
+System Administration. My expertise lies in architecting cost-efficient,
+scalable platforms that bridge the gap between development and operations.
+Currently, I am shaping the infrastructure landscape at **Bukalapak**.
+
+---
+
+## 🚀 About Me
+
+- 🔭 **Last Role:** Infrastructure Architect at
+  [Bukalapak.com](https://www.bukalapak.com).
+- 🏗️ **Core Focus:** Building reliable, automated, and cost-effective
+  Infrastructure as Code (IaC) environments.
+- 🎓 **Education:** Master in Computational Science & B.Eng in Engineering
+  Physics from **Institut Teknologi Bandung (ITB)**.
+- 📍 **Location:** Bandung, Indonesia.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+| Category               | Tools & Technologies                        |
+| :--------------------- | :------------------------------------------ |
+| **IaC & Provisioning** | Terraform, Ansible, Packer                  |
+| **Orchestration**      | Kubernetes, Docker                          |
+| **CI/CD Pipelines**    | GitLab CI/CD, ArgoCD, Ansible AWX           |
+| **Observability**      | Prometheus, Grafana, Alertmanager           |
+| **Logging & Tracing**  | ELK Stack (Elasticsearch, Logstash, Kibana) |
+| **Legacy Systems**     | Network & Mail Administration (DITSTI ITB)  |
+
+---
+
+## 📊 GitHub Stats
+
+![Prasetiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasetiyohadi&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasetiyohadi&layout=compact&theme=transparent)
+
+---
+
+## 🤝 Connect with Me
+
+- **LinkedIn:**
+  [linkedin.com/in/prasetiyohadi](https://linkedin.com/in/prasetiyohadi)
+- **Portfolio/Website:** [Pras' Workspace](https://pras.my.id)
+
+_"Enabling DevOps culture through automation and architectural excellence."_
