@@ -5,7 +5,6 @@
 I am a seasoned IT professional with over 12 years of experience in DevOps and
 System Administration. My expertise lies in architecting cost-efficient,
 scalable platforms that bridge the gap between development and operations.
-Currently, I am shaping the infrastructure landscape at **Bukalapak**.
 
 ---
 
