@@ -36,8 +36,8 @@ scalable platforms that bridge the gap between development and operations.
 ## 📊 GitHub Stats
 
 ![Prasetiyo's GitHub stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 
