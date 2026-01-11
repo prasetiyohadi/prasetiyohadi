@@ -35,8 +35,9 @@ scalable platforms that bridge the gap between development and operations.
 
 ## 📊 GitHub Stats
 
-![Prasetiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasetiyohadi&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasetiyohadi&layout=compact&theme=transparent)
+![Prasetiyo's GitHub stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 
